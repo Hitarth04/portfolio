@@ -1,8 +1,9 @@
-body {
+html,body {
     color: #40514E;
   margin: 0px;
   text-align: center;
   font-family: "Merriweather", serif;
+  overflow-x: hidden;
 }
 
 h1 {
